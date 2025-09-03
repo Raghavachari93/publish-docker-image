@@ -27,5 +27,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: raghavachari93/flask-docker-app:latest
+          tags: raghavender5/flask-docker-app:latest
 
